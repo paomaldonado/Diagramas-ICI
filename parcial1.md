@@ -135,7 +135,7 @@ El algoritmo debe calcular la edad despues de recibir los años correctos
 Año actual y de nacimiento 
 ##### 10.4 Salida
 Edad
-###### 9.5 Prueba de escritorio
+###### 10.5 Prueba de escritorio
 |Entrada | Salida |
 | ----------- | ----------- |
 | a.act y a.nac | a.act-a.nac |
