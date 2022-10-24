@@ -18,8 +18,7 @@ Conteo del 1 al 10 y suma de estos
 | ----------- | ----------- |
 | - | 50 |
 ###### 1.6 Código
-'''
-// Contar del 1 hasta el 10 y sumar los valores.
+''' // Contar del 1 hasta el 10 y sumar los valores.
 void main(List<String> args) {
   int s = 0, c = 1;
 
@@ -28,8 +27,8 @@ void main(List<String> args) {
     c++;
   }
   print("El resultado de la suma de los valores es:$s");
-} //while
-                '''
+} //while'''
+    
 
 
 ## 2. Obtener la suma de los primeros 5 numeros pares
