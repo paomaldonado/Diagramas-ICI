@@ -1,4 +1,4 @@
-# Primeros 10 problemas Parcial 2
+# Primeros problemas Parcial 2
 ## 1. Contar del 1 al 10 y sumar los valores. 
 ### 1.1 Analisis
 El algoritmo debe contar desde el 1 hasta el 10 y posteriormente sumar cada valor. 
